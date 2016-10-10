@@ -2,4 +2,6 @@ function consolelogging() {
 console.log("code")
 }
 
-$("#dothings").keydown(function(consolelogging){})
+$("#dothing").keydown(function(consolelogging){
+console.log(consolelogging)
+})
