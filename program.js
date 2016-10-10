@@ -1,10 +1,8 @@
-function doingthings() {
-console.log("SO MANY PENGUINS")
+function doingthings(name) {
+console.log(name)
 
 }
 
 
-$("#dothing").click(function(doingthings) {
-console.log("help")
-})        
-
+$("#dothing").click(doingthings(name)){
+}
