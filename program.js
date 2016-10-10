@@ -1,5 +1,5 @@
-consolelogging(){
-console.log()
+function consolelogging() {
+console.log("code")
 }
 
-$("#dothings").keydown(function(consolelogging))
+$("#dothings").keydown(function(consolelogging){})
