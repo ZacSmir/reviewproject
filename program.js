@@ -1,7 +1,3 @@
-function(strngLengthd) {
-  console.log(name)
-}
-
-function strngLength(name) {
-  console.log(name.length)
+function doSTuff(name) {
+  console
 }
