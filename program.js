@@ -1,7 +1,5 @@
-function consolelogging() {
-console.log("code")
-}
+function on
 
-$("#dothing").keydown(function(consolelogging){
-console.log("it kind of works")
-})
+
+$("#dothing").keydown(onKeydown)
+
