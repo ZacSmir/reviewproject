@@ -3,5 +3,5 @@ console.log("code")
 }
 
 $("#dothing").keydown(function(consolelogging){
-console.log(consolelogging)
+console.log("it kind of works")
 })
