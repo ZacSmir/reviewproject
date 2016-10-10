@@ -1,3 +1,3 @@
-function nameLength(name) {
-console.log
+function(strngLength){
+  console.log(name)
 }
