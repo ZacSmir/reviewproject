@@ -1,4 +1,6 @@
-$("#dothing").onclick(function(doingthings)         
+$("#dothing").click(function(doingthings) {
+console.log("cats")
+})        
 
        
        
