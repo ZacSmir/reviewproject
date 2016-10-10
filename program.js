@@ -1,5 +1,6 @@
-function doSTuff(name) {
-  console.log(name.toString())
+function getApi(onceWeHaveData) {
+  var data = "hi there"
+  onceWeHaveData(d)
 }
 
 doSTuff(doSTuff)
