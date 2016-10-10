@@ -1,8 +1,19 @@
-function doingthings() {
-console.log("SO MANY PENGUINS")
+//function doingthings() {
+//console.log("SO MANY PENGUINS")
+//
+//}
+//
+//
+//$("#dothing").click(doingthings){
+//}
 
+function whenClicked() {
+  console.log("function run")
+  return "1111"
 }
 
+var a = whenClicked()
+var b = whenClicked
 
-$("#dothing").click(doingthings){
-}
+console.log(a.toString())
+console.log(b.toString())
