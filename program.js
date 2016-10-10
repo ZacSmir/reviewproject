@@ -1,9 +1,5 @@
-$("#dothing").onclick(doThing(){
- console.log("cats")                     
-                      
-                      
-                      
-                      })
+$("#dothing").onclick(function(doingthings)         
+
        
        
        
