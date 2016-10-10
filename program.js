@@ -1,6 +1,6 @@
 function getApi(onceWeHaveData) {
   var data = "hi there"
-  onceWeHaveData(d)
+  onceWeHaveData(data)
 }
 
-doSTuff(doSTuff)
+2
