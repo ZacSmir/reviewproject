@@ -1,7 +1,7 @@
 $("#dothing").click(function(doingthings) {
-console.log("cats")
+console.log("help")
 })        
 
        
-       
+doingthings(fish)
        
